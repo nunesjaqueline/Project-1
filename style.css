@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500&display=swap');
+        
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+}
+
+main, li, a, button {
+    font-family: 'Comfortaa', cursive;
+    font-weight:500;
+    font-size: 16px;
+    color: #edf0f1; 
+    text-decoration: none;
+    
+}
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* navbar */ 
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;    
+}
+
+
+.logo {
+    cursor: pointer;
+}
+
+
+.navbar {
+        list-style-type: none;
+        margin: 0;
+        padding: 10px; 
+        display: inline-flex;
+        
+        
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+    
+}
+
+.navbar li a {
+    transition: all 0.3s ease 0s;
+}
+
+.navbar li a:hover {
+    color: #0088a9;
+  }
+
+button {
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: rgba(0, 136, 169, 0.8);
+}
+
+
+
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;   
+    
+}
+
+article {
+    padding: 10px;
+}
+
+aside {
+    padding: 10px;
+}
+
+footer {
+    background-color: #666;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 360px){
+    * {
+        /* -webkit-flex-direction: column; */
+        flex-direction: column;
+      }
+    }
+
+    @media (max-width: 400px) {
+        * {
+          /* -webkit-flex-direction: column; */
+          flex-direction: column;
+        }
+    
+        .logo {
+            width: 200px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+        * {
+          /* -webkit-flex-direction: column; */
+          flex-direction: column;
+        }
+        .logo {
+            width: 200px;
+        }
+      }
+
+    @media (max-width: 860px) {
+        * {
+          /* -webkit-flex-direction: column; */
+          flex-direction: column;
+        }
+        .logo {
+            width: 200px;
+        }
+      }
+
+
+  
+
+ 
+
