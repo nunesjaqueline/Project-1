@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="100"
+   viewBox="0 0 105.83333 26.458333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.3722883"
+     inkscape:cx="189.10021"
+     inkscape:cy="45.180012"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     units="px"
+     width="400mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2"
+     style="display:inline">
+    <g
+       id="g23543"
+       style="stroke-width:0.999989"
+       transform="matrix(0.58194162,0,0,0.58031319,-0.43272091,-8.9246693)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265335"
+         id="rect51205"
+         width="180.02696"
+         height="0.86073554"
+         x="2.3809416"
+         y="53.91452" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.5908px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;display:inline;fill:#d4aa00;stroke-width:0.293372"
+         x="-0.2413628"
+         y="43.378895"
+         id="text31403"
+         transform="scale(1.0177813,0.98252935)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.5908px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#d4aa00;stroke-width:0.293372"
+           x="-0.2413628"
+           y="43.378895"
+           id="tspan17889">mom {is coding}</tspan></text>
+    </g>
+  </g>
+</svg>
